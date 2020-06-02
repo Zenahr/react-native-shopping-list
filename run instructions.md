@@ -7,3 +7,5 @@ To run your project, navigate to the directory and run one of the following yarn
 - yarn android
 - yarn ios # requires an iOS device or macOS for access to an iOS simulator
 - yarn web
+
+or just expo start
